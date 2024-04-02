@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ram Hemareddy AWS CICD Pipeline Code Deployment to AWS EC2 Instance
 
 
@@ -13,3 +14,6 @@ sudo chmod +x ./install<br />
 sudo ./install auto<br />
 sudo yum install -y python-pip<br />
 sudo pip install awscli<br />
+=======
+# aws-cicd-pipeline-codedeploy
+>>>>>>> origin/main
